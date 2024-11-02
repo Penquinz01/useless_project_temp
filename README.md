@@ -1,95 +1,60 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Invisible Maze 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Dullards
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Adam Ashish - CET
+- Member 2: Parikshit R - CET
+- Member 3: Janbaas Jamal K K - CET
 
 ### Project Description
-[2-3 lines about what your project does]
+And Invisble maze with some traps,solving it is required to login 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Making login More Fun Ig
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Making a invisble Maze to make it more fun
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- C#
+- Unity
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Unzip the zip file provided
 
 # Run
-[commands]
+Open Useless.exe
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1.png](Add screenshot 1 here with proper name)
+Showing the initial ui in the game
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2.png](Add screenshot 2 here with proper name)
+Second page which shows asking the details
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot3.png](Add screenshot 3 here with proper name)
+Actual human verification step
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here]](https://drive.google.com/file/d/1lwsu46v1yedbUhENB3FdCW2YQZcxwwjH/view?usp=sharing)
+The WHole working of the game with all controls in it.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
